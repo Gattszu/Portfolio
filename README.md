@@ -14,7 +14,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 
 ### 🐾 Combat System
 <p align="center">
-  <img src="ShowcaseImages/CombatThumnail.png" width="500">
+  <img src="ShowcaseImages/CombatThumbnail.png" width="500">
 </p>
 
 <p align="center">
