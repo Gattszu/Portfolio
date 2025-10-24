@@ -14,7 +14,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 
 ### 🐾 Combat System
 <p align="center">
-  <img src="ShowcaseImages/PetSystemDemo.png" width="500">
+  <img src="ShowcaseImages/CombatThumnail.png" width="500">
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@ Each system below links to documentation/code and potentially a youtube video sh
 </p>
 
 **Features:**
-- Hatch pets with animation  
-- Equip/unequip with unique IDs  
-- Delete pets safely  
-- DataStore saving/loading  
+- Smooth Combat  
+- Efficient SateSystem for fast response  
+- Animation Handling  
+- Multiple weapons  
 
 **Links:**  
-## [View Code](https://github.com/Gattszu/Portfolio/tree/main/PetSystem) | [Try Live Demo](https://www.roblox.com/games/106083918695359/Pet-System-Showcase) ##
+## [View Code](https://github.com/Gattszu/CombatSystem/tree/master/src) | [Try Live Demo](https://www.roblox.com/games/97607529449826/Combat-System-Showcase) ##
 ---
 
 ### ⚡️ Speed Race Clicker
