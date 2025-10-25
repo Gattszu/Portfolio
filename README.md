@@ -18,7 +18,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=NcmDej2jaSU">
+  <a href="https://youtu.be/0q-_jJqZegA">
     Watch the demo
   </a>
 </p>
